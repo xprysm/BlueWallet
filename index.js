@@ -30,3 +30,6 @@ const BlueAppComponent = () => {
 };
 
 AppRegistry.registerComponent('BlueWallet', () => BlueAppComponent);
+
+
+// ui changesz
